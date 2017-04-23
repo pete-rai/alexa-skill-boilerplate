@@ -5,7 +5,7 @@ see demos and this and much more.
 
 ## Overview
 
-A simple to use, boilerplate template for a new Alexa skill for the Amazon Echo. It's
+A simple to use, boilerplate template for a new Alexa skill for the [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo). It's
 not really useful in its literal form, as it's real purpose is to show people how easy
 creating a custom skill can be. It basically allows your Echo to respond to utterances
 like "How does a duck go?" and Echo responds "Quack, Quack". It does this for a
