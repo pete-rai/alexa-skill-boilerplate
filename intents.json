@@ -1,0 +1,17 @@
+{
+  "intents":
+  [
+    {
+      "intent": "RollADice"
+    },
+    {
+      "intent": "HowDoesItGo",
+      "slots": [
+        {
+          "name": "Animal",
+          "type": "LIST_OF_ANIMALS"
+        }
+      ]
+    }
+  ]
+}

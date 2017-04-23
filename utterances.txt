@@ -1,0 +1,4 @@
+HowDoesItGo how does a {Animal} go
+HowDoesItGo how does {Animal} go
+HowDoesItGo how does the {Animal} go
+RollADice roll a dice
