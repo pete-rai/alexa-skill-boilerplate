@@ -13,7 +13,7 @@ range of animals. It also responds to "Roll a Dice".
 
 ### License
 
-This plugin is available under [the MIT license](https://github.com/pete-rai/jquery-slidein/blob/master/LICENSE). _Please respect the terms of the license._
+This project is available under [the MIT license](https://github.com/pete-rai/jquery-slidein/blob/master/LICENSE). _Please respect the terms of the license._
 
 ### Karmaware
 
